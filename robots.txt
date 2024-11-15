@@ -1,0 +1,9 @@
+User-agent:*
+Allow:/
+
+Sitemap: https://wallieamescua654.github.io/wallieamescua654_github_io_zp533_1.txt
+Sitemap: https://wallieamescua654.github.io/wallieamescua654_github_io_zp533_14.txt
+Sitemap: https://wallieamescua654.github.io/wallieamescua654_github_io_zp533_19.txt
+Sitemap: https://wallieamescua654.github.io/wallieamescua654_github_io_zp533_23.txt
+Sitemap: https://wallieamescua654.github.io/wallieamescua654_github_io_zp533_28.txt
+Sitemap: https://wallieamescua654.github.io/wallieamescua654_github_io_zp533_6.txt
